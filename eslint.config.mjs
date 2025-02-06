@@ -30,7 +30,7 @@ export default tseslint.config(
       '@typescript-eslint/no-explicit-any': 'off',
       '@typescript-eslint/no-floating-promises': 'warn',
       '@typescript-eslint/no-unsafe-argument': 'warn',
-      'sort-keys-fix/sort-keys-fix': 'error',
+      'sort-keys': ['error', 'asc', { caseSensitive: true, natural: true }],
     },
   },
 );
