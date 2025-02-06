@@ -13,5 +13,14 @@
   "files.associations": {
     "tsconfig.json": "jsonc"
   },
+  "material-icon-theme.languages.associations": {
+    "dotenv": "tune"
+  },
+  "material-icon-theme.files.associations": {
+    "tsconfig.json": "tune",
+    "*.webpack.js": "webpack",
+    "*.proto": "3d",
+    "ormconfig.json": "database",
+  },
   "material-icon-theme.activeIconPack": "nest"
 }
