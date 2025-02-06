@@ -90,7 +90,8 @@
     "package.json": ".eslint*, prettier*, tsconfig*, vite*, pnpm-*, bun.lockb, nest*, package-lock*",
     "tailwind.config.*": "tailwind.config*, postcss.config*",
     ".env.local": ".env*",
-    ".env": ".env*"
+    ".env": ".env*",
+    "*.ts": "${basename}.spec.ts"
   },
   "explorer.fileNesting.enabled": true,
 
