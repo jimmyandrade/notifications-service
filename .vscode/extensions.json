@@ -1,5 +1,6 @@
 {
   "recommendations": [
-    "PKief.material-icon-theme"
+    "PKief.material-icon-theme",
+    "prisma.prisma"
   ]
 }
